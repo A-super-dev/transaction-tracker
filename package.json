@@ -28,5 +28,8 @@
     "socket.io-client": "^4.4.0",
     "util": "^0.12.3",
     "web3": "^1.7.3"
+  },
+  "devDependencies": {
+    "prettier": "2.6.2"
   }
 }
